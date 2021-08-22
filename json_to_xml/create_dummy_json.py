@@ -36,7 +36,6 @@ def create_dummy_json():
         'box': [']
     }
     """
-    pass
 
     anno = dict()
     anno['filename'] = 'test1.jpg'
